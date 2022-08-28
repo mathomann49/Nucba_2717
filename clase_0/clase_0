@@ -1,0 +1,82 @@
+<!Doctype: html>
+<html "lang="en"">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width-devaice-width, initial-scale=1,0">
+    <title>Bienvenidos al lado oscuro</title>
+    <head>
+        <body>
+<h1>Esto es un título</h1>
+<h2>Esto es un título h2</h2>
+<h3>Esto es un título h3</h3>
+<h4>Esto es un título h4</h4>
+<h5>Esto es un título h5</h5>
+<h6>Esto es un título h6</h6>
+
+<p>esto es un texto</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur neque labore incidunt, obcaecati <br> saepe impedit quasi, perferendis, tenetur officiis sed nemo velit omnis ipsam delectus nulla autem facilis fugit.
+
+    <!-- esto es un comentario -->
+    <ul>
+        <li>Hola</li>
+        <li>Hola</li>
+        <li>Hola</li>
+        <li>Hola</li>
+        <li>Hola</li>
+    </ul>
+    
+    </a>
+    <a href="https://www.youtube.com/" target="_blank"> 
+        <img src="imagenes/logo1.png" alt="esto es un pájaro">
+
+    </a>
+    <table>
+        <tr>
+            <th>Lunes</th>
+            <th>Lunes</th>
+            <th>Lunes</th>
+        </tr>
+        <tr>
+            <td>8hs</td>
+            <td>9hs</td>
+            <td>10hs</td>
+        </tr>
+        
+    </table>
+    <form action="">
+        <label for="Nombre">Coloque su nombre aquí:</label>
+        <input 
+        type="text" 
+        id="nombre" 
+        name="nombre"
+        placeholder="input de texto" /> 
+        <input type="number" name="" id="" placeholder="imput de número" />
+        <input type="button" value="Esto es un boton"  />
+        <button>Esto es un boton</button>
+        <input type="checkbox" name="" id="" />
+        <input type="checkbox" name="" id="" />
+        <input type="checkbox" name="" id="" />
+        <input type="email" name="" id="" placeholder="email" required/>
+        <input type="password" name="" id="" placeholder="contraseña" />
+        <textarea name="" id="" cols="30" rows="10"></textarea>
+    </form>
+
+    <form action="">
+        <input type="radio" name="" id=""/>
+        <input type="radio" name="" id=""/>
+        <input type="radio" name="" id=""/>
+    </form>>
+    <ol>
+        <li>Hola
+            <ul>
+                <li>soy elemento de Hola</li>
+            </ul>
+        </li>
+        <li>Hola</li>
+        <li>Hola</li>
+        <li>Hola</li>
+    </ol>
+
+</body>
+    </head>
+</html>  
+

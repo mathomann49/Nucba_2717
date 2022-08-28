@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width-devaice-width, initial-scale=1,0">
+    <title>Mi perfil</title>
+    <head>
+        <body>
+            <h1>Mi Perfil</h1>
+            <img src="assets/mi-foto1.jpg" alt="foto de Miguel Thomann">
+            <ul>
+                <li>Nombre y apellido: Miguel Angel Thomann</li>
+                <li>Edad: 54 años</li>
+                <li>mail: mathomann49@gmail.com</li>
+                
+            </ul
+
+            <p>Algo sobre mi</p>
+            <p>Nací en el interior de la Pcia. de Bs. Aires y soy un eterno aprendiz. Enseño matemática en la escuela y cada clase es un desafío, pues uno tiene un plan pero la clase puede desarrollar en otra cosa</p>
+        </body>
+    </head>
+
+</html> 
+
+
+
+
